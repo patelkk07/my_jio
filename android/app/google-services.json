@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297328982218",
+    "project_id": "my-jio-eb3cc",
+    "storage_bucket": "my-jio-eb3cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297328982218:android:0775372c9ac57cdc5d1c33",
+        "android_client_info": {
+          "package_name": "com.example.my_jio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297328982218-kjujk9k10fgeiltcqvlvqpj2hmv0lc49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxPcgqovfBcC8RHBgaC7RVn45Xb3HUO2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297328982218-kjujk9k10fgeiltcqvlvqpj2hmv0lc49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
